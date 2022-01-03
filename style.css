@@ -234,7 +234,7 @@ nav div{
 .brand div{
     cursor: pointer;
     font-weight: 700;
-    font-size: 15px;
+    font-size: 17px;
 }
 .brand span{
     margin: 0 3rem;
@@ -281,6 +281,9 @@ nav div{
 @media(max-width:650px){
     .brand span{
         margin: 0 1.5rem !important;
+    }
+    .brand div{
+        font-size: 14.5px;
     }
 }
 
