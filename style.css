@@ -280,7 +280,7 @@ nav div{
 }
 @media(max-width:650px){
     .brand span{
-        margin: 0 1.5rem !important;
+        margin: 0 1rem !important;
     }
     .brand div{
         font-size: 14.5px;
