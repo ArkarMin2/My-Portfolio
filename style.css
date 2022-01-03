@@ -366,6 +366,15 @@ textarea{
         width: 400px;
     }
 }
+@media(max-width:600px){
+    .contact2{
+        background-color: #F8F9FA;
+        border-radius: none;
+    }
+    .contact2 input[type='text'],textarea{
+        background-color: #fff;
+    }
+}
 
 /* ====Footer==== */
 .footer-section{
